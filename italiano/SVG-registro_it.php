@@ -5,7 +5,7 @@
 
 <h1>aderice il nostro progetto</h1>
 
-<p>Il progetto Bit&amp;Nibs cerca investitori e colaboratori il quali vogliano protagonizare insieme a noi la creazione di una startup 100% basata su il potere de la blockchain y di i contrati inteligentes. ¡Seamos todos juntos la referencia del nuevo mundo que está por nacer!</p>
+<p>Se hai bisogno di maggiori informazioni saremo felici di spiegarti tutto il nostro lavoro.</p>
 
 
 <form name="FORM" method="POST" action="">

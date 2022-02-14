@@ -5,7 +5,7 @@
 
 <h1>únete al proyecto</h1>
 
-<p>Es necesitas más información estaremos encantados de explicarte todo nuestro trabajo.</p>
+<p>Si necesitas más información estaremos encantados de explicarte todo nuestro trabajo.</p>
 
 
 <form name="FORM" method="POST" action="">

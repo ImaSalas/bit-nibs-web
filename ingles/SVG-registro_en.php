@@ -5,10 +5,7 @@
 
 <h1>Join the project</h1>
 
-<p>Bit&amp;Nibs is looking for investors and collaborators who want 
-to become members of our project. If you want to create a startup 
-completely based on the power of the blockchain and smart contract, 
-please join us!</p>
+<p>If you need more information we will be happy to explain all our work.</p>
 
 
 <form name="FORM" method="POST" action="">
