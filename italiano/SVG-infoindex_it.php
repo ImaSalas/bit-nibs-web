@@ -17,11 +17,9 @@ di cioccolato e cacao. Coloro che fanno parte del progetto "Bit&amp;Nibs"
 siamo convinti che aiutare a fare un buon affare è il modo migliore per 
 fare affari, quindi vogliamo sviluppare una società in cui tutti hanno 
 la possibilità di mettere il loro grano per costruire un mondo più trasparente.
-E nonostante il nostro settore è il cioccolato e cacao, sapiamo che 
-facendo le cose con trasparenza e onestà, che solo la blockchain ei 
-contratti intelligenti sono in grado di garantire, ragiungiremo essere 
-referenti di qualsiasi istituzione su come fare le cose in un modo così aperto e democratico 
-finora solo è stato sognato.</p>
+E sebbene il nostro settore sia quello del cioccolato e del cacao, capiamo che
+se svolgiamo le nostre funzioni con trasparenza e onestà, potremo influenzare
+il mondo intero con un nuovo modello.</p>
 
 <a class="boton icono vermas_it" href="interna.php"></a>
 

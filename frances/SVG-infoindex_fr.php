@@ -15,11 +15,9 @@ de rupture pour faire des progrès dans le marché du chocolat et du cacao. Nous
 qui faisons partie du projet Bit&amp;Nibs, croyons que laide proposé pour faire une 
 bonne affaire est la meilleure façon de faire des affaires. Nous voulons créer 
 une société où tous les individus puissent avoir lopportunité de construire un 
-monde transparent. Et même si notre industrie est centrée sur le chocolat et le 
-cacao, nous savons quen faisant nos affaires avec la transparence et la honnêteté 
-qui sont les aspects caractéristiques du blockchain et des contrats intelligents, 
-nous deviendrons une référence pour toutes ces industries qui ont le rêve davoir 
-une administration ouverte et démocratique tel que la nôtre.</p>
+monde transparent. Et bien que notre secteur soit celui du chocolat et du cacao,
+nous comprenons que si nous exerçons nos fonctions avec transparence et honnêteté,
+nous pourrons influencer le monde entier avec un nouveau modèle.</p>
 
 <a class="boton icono vermas_fr" href="interna.php"></a>
 
