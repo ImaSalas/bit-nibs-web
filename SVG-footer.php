@@ -30,8 +30,8 @@
 <div id="f03" class="footerbloque">
 <h1>contacto</h1>
 <p>Usted puede contactarnos en cualquier momento para obtener más información sobre nuestro proyecto</p>
-<p>0039 320 805 25 38</p>
-<p>chocobitnibs@gmail.com</p>
+<p>🇮🇹 (+39) 391 792 76 69</p>
+<p>g.lugo.dev@gmail.com</p>
 <p>skype: bitnibs</p>
 <b>facebook: bitnibs</b>
 <b>twitter: @chococrypto</b>

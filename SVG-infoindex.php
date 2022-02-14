@@ -16,7 +16,7 @@
  establecer un buen negocio es la mejor manera de hacer negocios, por eso queremos desarrollar una compañía en donde 
  todos tengan la posibilidad de poner su grano de arena para la construcción de un mundo más transparente. Y aunque 
  nuestro sector sea el del chocolate y el cacao, entendemos que si llevamos a cabo nuestras funciones con la 
- transparencia y la honestidad lograremos ser influenciar con un nuevo modelo al mundo enteros.</p>
+ transparencia y la honestidad lograremos ser influenciar con un nuevo modelo al mundo entero.</p>
 
 <a class="boton icono vermas" href="modelo/modelo_de_negocios.php"></a>
 
