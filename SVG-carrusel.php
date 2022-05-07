@@ -5,8 +5,8 @@
 
 <!-- texto -->
 <div id="texto">
-<h1 class="titulo"><em>el futuro</em> del <em>Cacao y del Chocolate</em></h1>
-<h2 class="titulo">en el <em>mundo</em> de las <em>Nuevas Tecnologías</em></h2>
+<h1 class="titulo"><em>Hola</em> desde <em>Europa</em></h1>
+<h2 class="titulo">El <em>mundo</em> cacao <em>Nits</em></h2>
 </div>
 <!-- // cerro texto -->
 
